@@ -2,5 +2,5 @@ This will be the original
 User A adds some stuff at 1st line.
 content of this file.
 It is very simple, but
-hopefully will suffice for this
+hopefully UserA inserts will suffice for this
 test.
