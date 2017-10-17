@@ -1,7 +1,5 @@
-This will be the original.
-Adding this line as "UserA Evett"
-User A adds some stuff at 1st line.
+This will be the original
 content of this file.
 It is very simple, but
-hopefully UserA inserts UserB inserts will suffice for this
+hopefully will suffice for this
 test.
