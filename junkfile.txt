@@ -1,4 +1,5 @@
-This will be the original
+This will be the original.
+Adding this line as "UserA Evett"
 User A adds some stuff at 1st line.
 content of this file.
 It is very simple, but
